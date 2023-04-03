@@ -1,0 +1,16 @@
+#map{
+    height: 90vh;
+    width: 100%;
+    border-radius: 15px;
+    border-style:double;
+    border-color: #e00700;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+select{
+    border: #e00700;
+    border-radius: 5%;
+    color: #e00700;
+}
